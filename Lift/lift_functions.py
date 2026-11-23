@@ -1,5 +1,5 @@
-
 def display_floors():
+    
     print("\nAvailable Floors: 0 to 5")
     print("0 - Ground Floor")
     print("1 - First Floor")
